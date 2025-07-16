@@ -27,5 +27,5 @@ To optimize Ethereum gas usage by decoupling transaction submission from executi
 0x5275693e1c2409CFbcaD2aa30FFe778F34c620Ec
 ![alt text](image.png)
 
-- Project made by Palak Sahu
+-  Project made by Palak Sahu.
 
