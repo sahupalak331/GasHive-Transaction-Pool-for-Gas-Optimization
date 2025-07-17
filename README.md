@@ -28,4 +28,5 @@ To optimize Ethereum gas usage by decoupling transaction submission from executi
 ![alt text](image.png)
 
 -  Project made by Palak Sahu.
+-  Project completed on 17th July, 2025.
 
