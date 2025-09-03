@@ -1,4 +1,4 @@
-8# Project Title: GasHive: Transaction Pool for Gas Optimization 
+# Project Title: GasHive: Transaction Pool for Gas Optimization 
 Project Done By Palak Sahu.
 
 ## Project Description
@@ -28,5 +28,5 @@ To optimize Ethereum gas usage by decoupling transaction submission from executi
 ![alt text](image.png)
 
 -  Project made by Palak Sahu.
--  Project completed on 2nd September,  2025.
+-  Project completed on 3rd September,  2025.
 
